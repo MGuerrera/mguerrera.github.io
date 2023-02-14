@@ -510,7 +510,7 @@ h3.category_title .category_title_icon { border-radius: 3px; position: absolute;
 #googlemap_data .add_info .profile_row .td { display: block; overflow: hidden; font-size: 12px; line-height: 15px; padding-top: 5px; }
 #googlemap_data .add_info .profile_row.address .th  { background-position: 0 0;}
 /*#googlemap_data .add_info .profile_row.phone .th 	{ background-position: 0 -36px;}*/
-#googlemap_data .add_info .profile_row.email .th 	{ background-position: 0 -36px;}/*-72*/
+#googlemap_data .add_info .profile_row.email .th 	{ background-position: 0 -72px;}/*-72*/
 /*#googlemap_data .add_info .profile_row.website .th  { background-position: 0 -108px;}*/
 #googlemap_data .profile_row.header { font-size: 14px; line-height: 17px; height:26px; text-transform: uppercase; font-weight: 700; color: #000; padding-bottom: 7px; margin-bottom: 19px; border-bottom: 1px solid #e5e5e5; display:block;}
 
